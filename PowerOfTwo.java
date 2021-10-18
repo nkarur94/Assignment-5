@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class powerOfTwo{
+class PowerOfTwo{
 
 	public static void main(String[] args)
 	{

@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class twoDimensional
+class TwoDimensional
 {	
 	public static void main(String[] args)
 	{

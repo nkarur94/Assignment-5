@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class primeFactor{
+class PrimeFactor{
 	public static void main(String[] args){
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter the number greater then 1 to find the prime factor");
